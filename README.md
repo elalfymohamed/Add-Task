@@ -2,9 +2,8 @@
 
 <div align="center">
 
-<img src="./src/imgSite/imgSite1.png" width="350" />
-
-<img src="./src/imgSite/imgSite2.png" width="350"  />
+<img src="https://github.com/elalfymohamed/elalfymohamed/blob/master/.github/imgSite1.png?raw=true" width="350"  />
+<img src="https://github.com/elalfymohamed/elalfymohamed/blob/master/.github/imgSite2.png?raw=true" width="350"  />
 
 </div>
 
