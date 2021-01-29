@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<img src="https://github.com/elalfymohamed/Add-Task/blob/master/.github/imgSite1.png?raw=true" width="350"  />
-<img src="https://github.com/elalfymohamed/Add-Task/blob/master/.github/imgSite2.png?raw=true" width="350"  />
+<img src="https://user-images.githubusercontent.com/46499967/106214436-7264be80-61d7-11eb-9278-cbea5c4cf595.png" width="350"  />
+<img src="https://user-images.githubusercontent.com/46499967/106214512-988a5e80-61d7-11eb-8e18-48dcd23c6490.png" width="350"  />
 
 </div>
 
